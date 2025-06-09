@@ -1,4 +1,7 @@
-Snake Game 
+   Snake Game a Laboratory Activity for Computer Programming 2 using Java/JFrame in NetBeans
+
+
+   
 
    Snake Game Home Page
 

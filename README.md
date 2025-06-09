@@ -1,13 +1,13 @@
 Snake Game 
 
-                                  Snake Game Home Page
+   Snake Game Home Page
 
 
 ![UI](https://github.com/user-attachments/assets/9eba5e92-6e7e-4d3d-b91f-e3b6435c8e40)
 
 
 
-                                      Game Board
+   Game Board
 
 
 ![Game Board](https://github.com/user-attachments/assets/a6574ffd-247f-41f9-a9cd-afe7632b18f7)
@@ -16,8 +16,18 @@ Snake Game
 
 
 
-                                     Instructions
+   Instructions
 
 
 
 ![Instruction](https://github.com/user-attachments/assets/482e0150-0dff-477d-8624-c128ddc6097e)
+
+
+
+
+
+
+
+
+Submitted by: Aldrin Joseph Dinglasan   
+Submitted to: Ms. Arvel Himor
